@@ -1,2 +1,2 @@
-# Postgraduate_projects.github.io
+# Postgraduate_projects
 All the postgraduate projects on Data Analytics
