@@ -1,0 +1,9 @@
+Consert_Id,Concert_Date,Group,Category,Start_Time,Capacity,Expected_Attendance,Actual_Attendance,Ticket_Price,Venue_Id,Sponsor_Id, Sponsorship_Amount ,Atmosphere
+423,27-10-2018,Superfate,Rock,10:44,7096,4360,891,59.5,1,4941,"5,85,634.95",Poor
+384,01-08-2018,Roseum,Rock,05:41,6860,3376,917,53.85,2,4941,"4,67,032.55",Poor
+35,01-05-2018,Orphenadrine,Rock,00:37,7444,3695,3631,51.31,3,8420,"8,77,377.21",Good
+171,19-11-2019,Dipropion Hydro,Classical,20:59,6848,1108,3432,48.17,4,4151,"1,69,675.18",Superb
+773,27-11-2018,ConZip,Rock,14:27,6382,2622,2789,47.97,5,2067,"94,425.75",Good
+644,14-01-2019,Caldecort,Rock,05:28,7774,674,67,49.47,6,2067,"1,52,523.83",Poor
+544,29-01-2019,Lamotrigine,Rock,04:34,7914,859,3844,53.51,7,6184,"1,22,332.18",Superb
+444,30-03-2019,sunmark,Classical,13:41,6032,2781,3443,43.6,8,4941,"26,893.61",Poor
